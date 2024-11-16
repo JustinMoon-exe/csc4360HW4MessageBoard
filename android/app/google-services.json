@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605423983769",
+    "project_id": "csc4360messageb",
+    "storage_bucket": "csc4360messageb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605423983769:android:a65233dd8dee5135ba6c08",
+        "android_client_info": {
+          "package_name": "com.example.messageboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYY5Cyo0iOrKC6-2CmyA2b_ntZxP56iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
